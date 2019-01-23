@@ -1,1 +1,1 @@
-# python
+# python最速文法的なのはこちら- https://qiita.com/Fendo181/items/a934e4f94021115efb2e
